@@ -8,31 +8,31 @@
 ### 📂 Список работ
 
 - **🔢 Лабораторная работа №1**  
-  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/лабораторная работа 1-Arseniy281)
+  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/labwork1-Arseniy281)
 
 - **🔢 Лабораторная работа №2**  
-  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/лабораторная работа 2-Arseniy281)
+  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/labwork2-Arseniy281)
 
 - **🔢 Лабораторная работа №3**  
-  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/лабораторная работа 3-Arseniy281)
+  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/labwork3-Arseniy281)
 
 - **🔢 Лабораторная работа №4**  
-  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/лабораторная работа 4-Arseniy281)
+  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/labwork4-Arseniy281)
 
 - **🔢 Лабораторная работа №5**  
-  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/лабораторная работа 5-Arseniy281)
+  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/labwork5-Arseniy281)
 
 - **🔢 Лабораторная работа №6**  
-  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/лабораторная работа 6-Arseniy281)
+  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/labwork6-Arseniy281)
 
 - **🔢 Лабораторная работа №7**  
-  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/лабораторная работа 7-Arseniy281)
+  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/labwork7-Arseniy281)
 
 - **🔢 Лабораторная работа №8**  
-  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/лабораторная работа 8-Arseniy281)
+  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/labwork8-Arseniy281)
 
 - **🔢 Лабораторная работа №9**  
-  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/лабораторная работа 9-Arseniy281)
+  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/labwork9-Arseniy281)
 
 - **🔢 Лабораторная работа №10**  
-  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/лабораторная работа 10-Arseniy281)
+  🔗 [Перейти к коду](https://github.com/is-itmo-c-25/labwork10-Arseniy281)
